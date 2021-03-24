@@ -13,6 +13,7 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 
 * [Cloning, Forking, and Syncing Github Repositories](https://www.youtube.com/watch?v=vRxUGhMYHGQ&feature=youtu.be)
 * [Lecture Recording](https://usc.zoom.us/rec/share/GFDE-mobQCeuWNfC1-JMInNRRFYwcfUguSZp-j0tlVaGvytH9Hl8VKoFf78niZBg.k_PYCEQDkdk3RC3m?startTime=1615944773000)
+* [Regex Exercises](https://colab.research.google.com/drive/1xWpB7ltOGRF_t020OKPS8uFSv-hgqIBb?usp=sharing)
 
 ## Week 2
 
