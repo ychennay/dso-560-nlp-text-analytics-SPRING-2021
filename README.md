@@ -28,7 +28,11 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 * [Linear Algebra and Similarity](https://colab.research.google.com/drive/1Rb5-UrAFXTwQQ8nN25rsUfhx9kPueUN6?usp=sharing)
 
 ## Week 3
-
+### Google Colab Notebooks
+* [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/1ZLUQYqSfpIgF4oOGFgXBczkCrRGkMtjL?usp=sharing)
+* [Naive Bayes](https://colab.research.google.com/drive/1hu7S1_4T3NfmQuRFvjem4oEJbWw4mX3Q?usp=sharing)
+* [Cosine Similarity, PMI, Collocation, TF-IDF](https://colab.research.google.com/drive/1UzPa_LobkrTx8TyekeDwpxfvCmJOf_wF?usp=sharing)
+* [Regex Practice](https://colab.research.google.com/drive/1xQY4SzoJJN7FjqTcUWgFnDEq4kxWGTvF?usp=sharing)
 
 ## Week 4
 
