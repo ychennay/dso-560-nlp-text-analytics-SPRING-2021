@@ -21,6 +21,8 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 
 ## Week 2
 
+* [Lecture Recording](https://usc.zoom.us/rec/share/aM2GQkc5S2QkidpWNQZB1rjDxcUO8qqcl-zSpFasSWiRorI2D0HhBgDXF5nvwgQK.caQX8IKfVhd8LACR?startTime=1616549879000)
+
 ### Google Colab Notebooks (Please Make Sure to Save Your Own Copy)
 * [Regex Practice Part II](https://colab.research.google.com/drive/1XyN7gs-IB-ZCaEIkAT9Bwwi83A0QFP1j?usp=sharing)
 * [Text Encodings](https://colab.research.google.com/drive/1JsvzZ7zKOS0iy32_4utsvyXp6CVQiKWn?usp=sharing)
@@ -28,6 +30,9 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 * [Linear Algebra and Similarity](https://colab.research.google.com/drive/1Rb5-UrAFXTwQQ8nN25rsUfhx9kPueUN6?usp=sharing)
 
 ## Week 3
+
+* [Lecture Recording](https://usc.zoom.us/rec/share/v7ZKjlZOLv-YPmyjuJieczGvC3CUsHr9KFl4zvMp_s5A6zAUCiDnLK0IYad6WEIP.Quisagp0VQUVtH-H?startTime=1617154333000)
+
 ### Google Colab Notebooks
 * [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/1ZLUQYqSfpIgF4oOGFgXBczkCrRGkMtjL?usp=sharing)
 * [Naive Bayes](https://colab.research.google.com/drive/1hu7S1_4T3NfmQuRFvjem4oEJbWw4mX3Q?usp=sharing)
@@ -35,6 +40,11 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 * [Regex Practice](https://colab.research.google.com/drive/1xQY4SzoJJN7FjqTcUWgFnDEq4kxWGTvF?usp=sharing)
 
 ## Week 4
+
+### Google Colab Notebooks
+* [Independence](https://colab.research.google.com/drive/1yyQ12ZI6PRtdyga6nyEOrJV1LmEp1eAR?usp=sharing)
+* [Dimensionality Reduction](https://colab.research.google.com/drive/1cV73JTMmigA0IT7wxpABn-zMUtWJFB-x?usp=sharing)
+* [Advanced Regex](https://colab.research.google.com/drive/1KWmT7L9UZZ3GkJWQEDp1r9moT1aF8r8M?usp=sharing)
 
 
 ## Week 5
