@@ -54,6 +54,7 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 
 
 ## Week 7
+* [Tips and Tricks with String Matching](https://colab.research.google.com/drive/1zlNn20OUx1dJwN8oyLb6Q4OpPoRoOTcC?usp=sharing)
 * [Using TF-IDF Weighted Word Embeddings](https://colab.research.google.com/drive/1CZa723-_mDmNJPG2oiExgWYF9nqbueeY?usp=sharing)
 * [Word2Vec Part II](https://colab.research.google.com/drive/1IYWXde5jQxD-4k0hGy7mkSRh_kueoohX?usp=sharing)
 * [Deep Learning with Word Embeddings](https://colab.research.google.com/github/ychennay/dso-560-nlp-text-analytics-SPRING-2021/blob/main/Week%207/Deep%20Learning%20with%20Word%20Embeddings.ipynb#scrollTo=TR0hsaNmN5xc)
