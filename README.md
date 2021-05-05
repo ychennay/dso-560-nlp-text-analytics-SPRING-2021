@@ -60,3 +60,5 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 * [Deep Learning with Word Embeddings](https://colab.research.google.com/github/ychennay/dso-560-nlp-text-analytics-SPRING-2021/blob/main/Week%207/Deep%20Learning%20with%20Word%20Embeddings.ipynb#scrollTo=TR0hsaNmN5xc)
 
 ## Week 8
+* [RNNs and LSTMs with NLP Classification Tasks](https://colab.research.google.com/drive/1K8-FOCb64oqtyLjWMvPMTlhbRPn53rsj?usp=sharing)
+* [Attention Models](https://colab.research.google.com/drive/1qV6R-CoC7ry8gBJzcNqRExwB4eO9wP8m?usp=sharing)
